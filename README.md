@@ -1,6 +1,6 @@
 <h1 align="center">Jogo da memória</h1>
 
-<h2>Link do pages:<a target="_blank" href="https://rogeraguiar0.github.io/Jogo-da-memoria/">Jogo da Memória</a></h2>
+<h2>Link do pages: <a target="_blank" href="https://rogeraguiar0.github.io/Jogo-da-memoria/">Jogo da Memória</a></h2>
 
 <p>Essa atividade acadêmica tem como objetivo a prática dos conceitos aprendidos na disciplina "Desenvolvimento em JavaScript" da Anhanguera.</p>
 
