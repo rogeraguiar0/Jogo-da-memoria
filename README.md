@@ -1,1 +1,13 @@
-# Jogo-da-memoria
+<h1>Jogo da memória</h1>
+
+<p>Essa atividade acadêmica tem como objetivo a prática dos conceitos aprendidos na disciplina "Desenvolvimento em JavaScript" da Anhanguera</p>
+
+<p>Práticas utilizadas nesse projeto:</p>
+
+<ul>
+  <li>Animações 3D</li>
+  <li>Manipulação de eventos</li>
+  <li>Pequenos algoritmos para o funcionamento do jogo</li>
+</ul>
+
+- <p>Meu <a target="_blank" href="https://www.linkedin.com/in/rógeraguiar/">LinkedIn</a></p>
