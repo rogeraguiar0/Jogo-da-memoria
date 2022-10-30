@@ -1,6 +1,8 @@
 <h1>Jogo da memória</h1>
 
-<p>Essa atividade acadêmica tem como objetivo a prática dos conceitos aprendidos na disciplina "Desenvolvimento em JavaScript" da Anhanguera</p>
+<p>Essa atividade acadêmica tem como objetivo a prática dos conceitos aprendidos na disciplina "Desenvolvimento em JavaScript" da Anhanguera.</p>
+
+<p>O tema escolhido para essa aplicação foi: Hora de Aventura!</p>
 
 <p>Práticas utilizadas nesse projeto:</p>
 
